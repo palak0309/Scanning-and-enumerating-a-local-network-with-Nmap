@@ -1,5 +1,8 @@
-🔐 Ethical Hacking Project
+🔐 Ethical Hacking Project:
 Scanning and Enumerating a Local Network with Nmap
+Author: Palak Tiwari
+Semester: 6
+Branch: AI
 Table of Contents
 Project: Simulating Real-World Network Exploitation and Defense
 
